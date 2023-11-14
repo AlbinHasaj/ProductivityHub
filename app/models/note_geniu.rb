@@ -1,0 +1,2 @@
+class NoteGeniu < ApplicationRecord
+end
